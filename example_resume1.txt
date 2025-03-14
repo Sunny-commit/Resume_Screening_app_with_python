@@ -1,0 +1,25 @@
+Name: John Doe
+Email: john.doe@example.com
+Phone: +1 234 567 890
+LinkedIn: linkedin.com/in/johndoe
+
+Objective:
+Data Scientist with 3+ years of experience in building machine learning models and deploying data-driven solutions. Passionate about data analysis and AI innovations.
+
+Skills:
+- Python, R, SQL
+- Scikit-learn, TensorFlow, PyTorch
+- Data Visualization (Matplotlib, Seaborn)
+- NLP and Text Analytics
+- Data Wrangling and ETL
+
+Experience:
+- Data Scientist at XYZ Corp (Jan 2022 - Present)
+   - Developed predictive models for sales forecasting with 85% accuracy.
+   - Implemented NLP pipelines for customer sentiment analysis.
+- Data Analyst Intern at ABC Solutions (June 2021 - Dec 2021)
+   - Performed data cleaning and EDA on customer feedback datasets.
+
+Education:
+- MSc in Data Science, XYZ University (2021)
+-

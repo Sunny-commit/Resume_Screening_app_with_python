@@ -1,0 +1,25 @@
+Name: Jane Smith
+Email: jane.smith@example.com
+Phone: +1 987 654 321
+GitHub: github.com/janesmith
+
+Objective:
+Full-stack developer with expertise in building scalable web applications using modern frameworks. Experienced in both frontend and backend development.
+
+Skills:
+- HTML, CSS, JavaScript
+- React.js, Node.js, Express.js
+- MongoDB, MySQL, Firebase
+- REST APIs, JSON
+- Version Control (Git, GitHub)
+
+Experience:
+- Web Developer at TechWeb (Feb 2023 - Present)
+   - Built interactive websites with React and improved page speed by 40%.
+   - Designed RESTful APIs for secure data handling.
+- Frontend Intern at WebSolutions (Aug 2022 - Jan 2023)
+   - Developed user-friendly UI components using React.
+
+Education:
+- B.Tech in Computer Science, ABC University (2023)
+-
